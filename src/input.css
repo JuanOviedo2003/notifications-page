@@ -1,0 +1,9 @@
+/* import font from fonts project */
+@font-face {
+    font-family: "PlusJakartaSans";
+    src: url(./../assets/fonts/PlusJakartaSans-VariableFont_wght.ttf);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
